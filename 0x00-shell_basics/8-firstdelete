@@ -1,2 +1,3 @@
 #!/bin/bash
-rm /pwd/my_first_directory/betty
+rm /pwd/my_first_directory/*
+
