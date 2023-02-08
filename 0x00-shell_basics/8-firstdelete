@@ -1,2 +1,2 @@
 #!/bin/bash
-rm /pwd/my_first_directory/*
+rm -r /pwd/my_first_directory/*
